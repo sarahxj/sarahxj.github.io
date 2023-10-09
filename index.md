@@ -28,7 +28,6 @@ I enjoy sharing my passion for astronomy through teaching and outreach and I str
 **Planet Finder Academy:** The Planet Finder Academy is an outreach program hosted by the California Institute of Technology for Pasadena-area high school students to learn about exoplanets and exoplanet science. Over the course of a one-week summer session in July and additional follow-up sessions during the school year, PFA students learn about the history of exoplanet science, the skills and methods that researchers use to study exoplanets today, and how to become involved with exoplanet research themselves. I am honored to be one of the lead instructors for the Planet Finder Academy. As part of the program's content, I developed Jupyter notebooks and worksheets for students to learn the basics of Python for scientific programming and the RV method for detecting exoplanets which can be found [here](/pfa). I also assist with general day-to-day planning and instruction during the program.
 
 <img src="/assets/img/pfa.jpg" width="600px">
-<center><i>Image credit: Scott Phelps</i></center>
 
 You can read more about the Planet Finder Academy [here](https://www.admissions.caltech.edu/explore-more/news/outreach-program-engages-public-high-school-students-in-the-discovery-of-exoplanets), [here](https://www.coloradoboulevard.net/27-pasadena-unified-students-are-planet-finders/), and [here](https://www.coloradoboulevard.net/pasadena-unified-high-schoolers-train-as-planet-finders-at-caltech/).
 
