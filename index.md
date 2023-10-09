@@ -8,7 +8,7 @@ I am an aspiring astronomer and exoplanet researcher. I graduated with my B.S. i
 
 When I'm not looking to the stars, I enjoy cooking and baking, reading, making art, traveling, and cuddling with my cat, Missy.
 
-![Picture of a raspberry pie with the top crush cut into the shape of mathemathical pi](/assets/img/raspberrypie.jpg)
+![Picture of a raspberry pie with the top crush cut into the shape of mathemathical pi](/assets/img/raspberrypie.jpg)![Picture of a French bookstore window with book displays outside](/assets/img/librairie.jpg)![Picture of a fluffy tabby cat](/assets/img/missy.jpg)
 
 ## Research
 
