@@ -9,6 +9,7 @@ I am an aspiring astronomer and exoplanet researcher. I graduated with my B.S. i
 When I'm not looking to the stars, I enjoy cooking and baking, reading, making art, traveling, and cuddling with my cat, Missy.
 
 <img src="/assets/img/raspberrypie.jpg" width="200px"><img src="/assets/img/librairie.jpg" width="200px"><img src="/assets/img/missy.jpg" width="200px">
+<center>Image credit: Scott Phelps</center>
 
 ## Research
 
