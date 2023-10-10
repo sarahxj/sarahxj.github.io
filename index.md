@@ -14,6 +14,11 @@ When I'm not looking to the stars, I enjoy cooking and baking, reading, making a
 
 **Identifying Techniques to Separate Stellar Activity from Planetary Signals:** One of the main methods that researchers use to discover exoplanets is the radial velocity (RV) method, which measures and analyzes the Doppler shifts in stellar spectra caused by a planet "wobbling" its host star. This method has seen vast improvements in recent years, but as instruments near the precision levels needed to detect the small shifts caused by an Earth-like planet orbiting a Sun-like star, the detection of these planets is still limited by stellar activity masquerading as planetary signals in RV measurements.
 
+<figure>
+  <img src="/assets/img/rv.gif" width="600px">
+  <figcaption>Image credit: Alysa Obertas</figcaption>
+</figure>
+
 In my work at the Space Telescope Science Institute, we sought to use machine learning as a tool to predict stellar activity signals from spectral features and distinguish between stellar activity and real planetary signals. Previously, [de Beurs et al.](https://arxiv.org/abs/2011.00003) used a convolutional neural network (CNN) to correlate shape changes in the cross-correlation functions (CCFs) of both simualted stellar spectra and solar spectra from the high-resolution spectrograph HARPS-N with stellar activity and remove those stellar activity signals from the measured RVs. We applied similar techniques to solar and stellar spectra from NEID, another high-resolution spectrograph with a broader wavelength range than HARPS-N. To identify informative inputs and calibrate our predictions for the models, we analyzed NEID data for activity-correlated/sensitive features. During the course of this research, we determined that although machine learning has the potential to be a powerful tool in stellar activity mitigation, further research on the relationships between stellar activity and spectral features is necessary to avoid relying on "black box" models. 
 
 To this end, we investigated a set of NEID spectra of ε Eridani, a young, active K-dwarf star, to probe these relationships. [Wise et al.](https://arxiv.org/abs/1808.09009) previously included ε Eridani in a study that identified a set of activity-sensitive spectral lines. We built upon this work by creating a partially automated method to analyze spectral lines, correlate their features (depth, full width at half maximum, and integrated flux) with known activity indicators, and filter and curate for well-behaved lines whose shape changes are sensitive to certain types of stellar activity. We identified a list of nine lines correlated with the S-index in all three line features, including four newly-identified activity-sensitive lines; as well as additional lines correlated with S-index in at least one feature. These lines, which trace activity periodic at the star's rotational period, can be used as reference points for future work on mitigating stellar activity signals in RV measurements and illustrate the importance of studying the time evolution of line morphologies with stabilized spectrographs, in the overall effort to mitigate activity in the search for small, potentially Earth-like exoplanets.
@@ -31,7 +36,7 @@ I enjoy sharing my passion for astronomy through teaching and outreach and I str
 
 <figure>
   <img src="/assets/img/pfa.jpg" width="600px">
-  <figcaption>Photo credit: Scott Phelps.</figcaption>
+  <figcaption>Photo credit: Scott Phelps</figcaption>
 </figure>
 
 You can read more about the Planet Finder Academy [here](https://www.admissions.caltech.edu/explore-more/news/outreach-program-engages-public-high-school-students-in-the-discovery-of-exoplanets), [here](https://www.coloradoboulevard.net/27-pasadena-unified-students-are-planet-finders/), and [here](https://www.coloradoboulevard.net/pasadena-unified-high-schoolers-train-as-planet-finders-at-caltech/).
