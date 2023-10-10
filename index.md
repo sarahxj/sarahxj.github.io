@@ -31,7 +31,7 @@ I enjoy sharing my passion for astronomy through teaching and outreach and I str
 
 <figure>
   <img src="/assets/img/pfa.jpg" width="600px">
-  <figcaption style="font-size:10;">Photo credit: Scott Phelps</figcaption>
+  <figcaption>Photo credit: Scott Phelps.</figcaption>
 </figure>
 
 You can read more about the Planet Finder Academy [here](https://www.admissions.caltech.edu/explore-more/news/outreach-program-engages-public-high-school-students-in-the-discovery-of-exoplanets), [here](https://www.coloradoboulevard.net/27-pasadena-unified-students-are-planet-finders/), and [here](https://www.coloradoboulevard.net/pasadena-unified-high-schoolers-train-as-planet-finders-at-caltech/).
