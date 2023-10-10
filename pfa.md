@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Planet Finder Academy
+### Planet Finder Academy Instructional Resources
 
 As instructional content for the Planet Finder Academy, I created several worksheets and Jupyter notebooks designed to teach students the fundamentals of Python for scientific programming and the basics of the RV method for detecting exoplanets. These worksheets/tutorials are designed to be completed in the order that they are listed below, but they can be adapted to work as standalone activities.
 
