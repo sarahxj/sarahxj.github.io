@@ -25,8 +25,8 @@ To this end, we investigated a set of NEID spectra of ε Eridani, a young, activ
 
 ## Publications
 
-**Jiang, S.**, Roy, A., Halverson, S., et al. Revisitingε Eridani with NEID: Identifying New Activity-Sensitive Lines in a Young
-K Dwarf Star. *Submitted to AJ.*
+**Jiang, S.**, Roy, A., Halverson, S., et al., "Revisitingε Eridani with NEID: Identifying New Activity-Sensitive Lines in a Young
+K Dwarf Star," AJ, in press.
 
 ## Outreach and Community Involvement
 
