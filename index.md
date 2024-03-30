@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an aspiring astronomer and exoplanet researcher. I graduated with my B.S. in Physics from Georgetown University in 2021, after which I spent a year as a research intern at the Space Telescope Science Institute. I currently work as a data analyst while continuing my research and outreach activities, and I plan to pursue a PhD in astronomy/astrophysics. **I am currently applying for PhD positions during the 2023-2024 application cycle.** My main research interests lie in exoplanet detection and characterization, particularly the search for habitable, Earth-like exoplanets, as well as star and planet formation, the characterization of exoplanet atmospheres, and astrobiology.
+I am an aspiring astronomer and exoplanet researcher. I graduated with my B.S. in Physics from Georgetown University in 2021, after which I spent a year as a research intern at the Space Telescope Science Institute. I currently work as a data analyst while continuing my research and outreach activities, and I plan to pursue a PhD in astronomy/astrophysics. My main research interests lie in exoplanet detection and characterization, particularly the search for habitable, Earth-like exoplanets, as well as star and planet formation, the characterization of exoplanet atmospheres, and astrobiology.
 
 When I'm not looking to the stars, I enjoy cooking and baking, reading, making art, traveling, and cuddling with my cat, Missy.
 
