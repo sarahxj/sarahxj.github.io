@@ -12,6 +12,8 @@ When I'm not looking to the stars, I enjoy cooking and baking, reading, making a
 
 ## Research
 
+**Current Research:** TBA.
+
 **Identifying Techniques to Separate Stellar Activity from Planetary Signals:** One of the main methods that researchers use to discover exoplanets is the radial velocity (RV) method, which measures and analyzes the Doppler shifts in stellar spectra caused by a planet "wobbling" its host star. This method has seen vast improvements in recent years, but as instruments near the precision levels needed to detect the small shifts caused by an Earth-like planet orbiting a Sun-like star, the detection of these planets is still limited by stellar activity masquerading as planetary signals in RV measurements.
 
 <figure>
