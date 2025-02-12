@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student in Astronomy and Astrophysics at the University of California San Diego, working with [Dr. Chris Theissen](https://ctheissen.github.io/index.html) as part of the [Cool Star Lab](https://www.coolstarlab.org/home). I obtained my B.S. in Physics from Georgetown University in 2021, after which I spent a year as a research intern at the Space Telescope Science Institute. My main research interests lie in exoplanet detection and characterization, particularly the search for habitable, Earth-like exoplanets, as well as star and planet formation, the characterization of exoplanet atmospheres, and astrobiology.
+I am currently a PhD student in Astronomy and Astrophysics at the University of California San Diego, working with [Dr. Chris Theissen](https://ctheissen.github.io/index.html). I obtained my B.S. in Physics from Georgetown University in 2021, after which I spent a year as a research intern at the Space Telescope Science Institute. My main research interests lie in exoplanet detection and characterization, particularly the search for habitable, Earth-like exoplanets, as well as star and planet formation, the characterization of exoplanet atmospheres, and astrobiology.
 
 When I'm not looking to the stars, I enjoy cooking and baking, reading, making art, traveling, and cuddling with my cat, Missy.
 
