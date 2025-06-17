@@ -32,6 +32,8 @@ K Dwarf Star," 2023, The Astronomical Journal, 167, 9, doi: [10.3847/1538-3881/a
 
 ## Outreach and Community Involvement
 
+(This section to be updated!)
+
 I enjoy sharing my passion for astronomy through teaching and outreach and I strive to be involved with community efforts as much as possible. I am particularly passionate about increasing the diversity and accessibility of astronomy and creating opportunities for students from all backgrounds to become inspired by astronomy. I participate in a number of outreach activities, including but not limited to the following:
 
 **Planet Finder Academy:** The Planet Finder Academy is an outreach program hosted by the California Institute of Technology for Pasadena-area high school students to learn about exoplanets and exoplanet science. Over the course of a one-week summer session in July and additional follow-up sessions during the school year, PFA students learn about the history of exoplanet science, the skills and methods that researchers use to study exoplanets today, and how to become involved with exoplanet research themselves. I am honored to be one of the lead instructors for the Planet Finder Academy. As part of the program's content, I developed Jupyter notebooks and worksheets for students to learn the basics of Python for scientific programming and the RV method for detecting exoplanets which can be found [here](/pfa). I also assist with general day-to-day planning and instruction during the program.
